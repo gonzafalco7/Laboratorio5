@@ -19,6 +19,8 @@ un parámetro GET (si no sabe como hacerlo, revise la documentación en http://w
 
 ![imagen 1](https://github.com/gonzafalco7/Laboratorio5/blob/main/servlet_funcionando_bien.png)
 
+7. Busque el artefacto gson en el repositorio de maven y agregue la dependencia.
+
 8. En el navegador revise la dirección https://jsonplaceholder.typicode.com/todos/1. Intente cambiando diferentes números al final del path de la url.
 
 ![imagen 8](https://github.com/gonzafalco7/Laboratorio5/blob/main/imagen%206.png)
