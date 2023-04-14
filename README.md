@@ -51,3 +51,17 @@ los métodos getter y setter para las propiedades de los"To Dos" que se encuentr
 #### PARTE III
 
 16. En su servlet,sobreescriba el método doPost, y haga la misma implementación del doGet.
+
+17. Cree el archivo index.html en el directorio src/main/webapp/index.html.
+
+18. En la página anterior, cree un formulario que tenga un campo para ingresar un número (si no ha manejado html antes, revise
+http://www.w3schools.com/html/ ) y un botón. 
+
+19. Revise este ejemplo de validación de formularioscon javascript y agruéguelo a su formulario, de manera que -al momento de hacer ‘submit’- desde el
+browserse valide que el valor ingresado es un valor numérico.
+
+![imagen 19](https://github.com/gonzafalco7/Laboratorio5/blob/main/numberformatexception.png)
+
+20. Recompile y ejecute la aplicación. Abra en su navegador en la página del formulario, y rectifique que la página hecha anteriormente sea
+mostrada. Ingrese los datos y verifique losresultados. Cambie el formulario para que ahora en lugar de POST, use el método GET . Qué diferencia
+observa?
