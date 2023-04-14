@@ -3,4 +3,4 @@
 ### Gonzalo Pedro Falco
 
 
-*  Revise la clase SampleServlet incluida a continuacion, e identifique qué hace:
+1.  Revise la clase SampleServlet incluida a continuacion, e identifique qué hace:
